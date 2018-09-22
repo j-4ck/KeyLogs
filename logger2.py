@@ -1,3 +1,5 @@
+# long live delete humanity
+# probably unfinished.
 from threading import Thread
 from datetime import datetime
 import socket
