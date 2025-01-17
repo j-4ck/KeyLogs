@@ -11,4 +11,4 @@
 
 NOTE:
 	Tested on: "Ubuntu 16.04 xenial"
-	Issues/ debugging: message @0xjack (instagram)
+	Issues/ debugging: contact here
